@@ -1,0 +1,17 @@
+Teamwork is a multi-level form of cooperation extremely important and necessary for joint action is associated with many difficulties, gaining knowledge and experience. In my opinion special attention should be paid to communication skills as well as the competence and timeliness of the tasks performed, but also to ethics - high personal culture. In a team context, basic business behavior, ethics, and courtesy are important for ensuring a productive and positive work environment. This includes things like treating others with respect, being reliable and punctual, and communicating effectively. [LO2.4.1.2] 
+
+Every project that I have been participating in gave me some more experience.  
+
+(Todorow, B. (2022) Working in a group) 
+
+I improved my programming skills, interpersonal and teamwork. I have been bringing more experience to every new group of students. in every new project I had a new team and have been mixed with different people. 
+People have difficulties. It is important to value what is the best in them. 
+
+The last project about mobile apps shows that I can behave with understanding and courtesy. 
+I have been I a group where some students have little knowledge about mobile app. To make sure our team will deliver the product on time I have been helping others. [LO2.4.1.2] If any group member has been stuck on something that I already know or worked on last year, I have been explaining the topic until someone was able to move on. At meetings I have been advising that they should not rush and pick something that is most interesting for them in mobile development, as from my experience when acquiring knowledge entertains, wisdom comes easily. I have been explained to the team that right now we should take our time to catch the basics and do not rush. I told the team that this project is not about delivery project before the deadline. [LO2.4.1.2] I told them then that it is about learning how to solve problems and how we can seek better time management methods. Software developers should be able to manage their time effectively to meet deadlines and deliver high-quality work. Right now, as Karen Mackay said, we are in a safe environment to make mistakes.  
+On the presentation day our product did not have basic functionality. My task was to connect Api to an external database. The week before I could not decide on a solution, if it should be a rest APi or graphQL, my late decisions caused delay, but I managed to connect database on time. I think decisions about project principals should be made at the Planning phase and not changed just before the deadline. [LO2.4.1.2] Software developer should be able to approach problems in a logical and systematic way and be able to identify and implement solutions think It is important for a software developer to be able to effectively communicate with other members of the team, including sharing ideas, providing updates and discuss any challenges or issues that arise. 
+
+Timeliness, focus when faced with distractions, and the ability to complete tasks to a deadline with high quality, are important skills for maintaining productivity and meeting goals. These skills can be developed only through practice. I will keep improving my skills by participating in private and school projects.   
+ 
+
+Todorow, B. (2022) Working in a group, Bitbucket. Available at: https://bitbucket.org/vileider/semester1/src/main/reflections/WorkingInGroup.md (Accessed: December 14, 2022). 
