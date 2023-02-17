@@ -2,7 +2,6 @@ To move to a higher level of cyber technology awareness I was reading multiple a
 I read also about recent and past cyber attacks. To delve deeper into this topic and understand it better-used
 tool at hackthebox website, which explained how does hacking method called: buffer overflow works. (Todorow, B. 2023 buffer overflow example)
 (Tunggal, A.T. 2022)
-
 In April 2019 Facebook has been attacked revealing 146 gigabytes of private data.[LO2.6.2.4]
 Analysing the pitfall of that event I can say that a large amount of private data that was exfiltrated from Facebook's servers indicates a lack of proper controls and protections in place to secure user data. (Holmes, A. 2021) The vulnerability that was exploited could be used for several months, caused by a lack of regular security assessments and insufficient vulnerability scans.
 I think there was a serious risk that sensitive information could be used for malicious purposes, such as identity theft or fraud.[LO2.4.2.2]
