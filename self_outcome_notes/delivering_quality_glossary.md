@@ -1,7 +1,7 @@
 What is Quality assurance?
 (Bose, 2022)
 Referring to Bose`s article, it is more expensive to fix an
-error in the early planning stage rather in a late development or production.
+error in the early planning stage rather than in late development or production.
 After analyzing requirements quality assurance teams have to design the tests.
 (StudySmarter, 2023)
 With high quality, an organization builds trust, and as a result, become more competitive.

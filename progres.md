@@ -433,4 +433,4 @@ Jenkins - continuous integration tool, the center of CI env
 ### 16.2.2023
 After daily stand-up I had a session with IBM support
 He helped me solving my issue with the pipeline
-
+I was working hard helping team member during pull requests. I send my task
