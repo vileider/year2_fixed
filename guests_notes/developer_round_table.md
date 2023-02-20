@@ -9,20 +9,18 @@ Simone
     conte@adobe.com
     -software engineer at adobe
 
-Distraction:
+brief about distraction:
 Barnaby said he has got focusing time.
 James is focusing whole team on one topic
 Simone said he is struggling with distraction as well
 
-
-Chat gpt:
-James said that 
-
+brief about CI/CD:
 Simone said that they use tool called jidoka as a pipeline with tests.
+automation that automatically fixes issues is named “Jidoka”.
 
 Simone: code coverage - after completing test you know that the code is legit 100%.
 
-Simone: integration test is when code is touching interface or database. We use test cointainer to test it in database
+Simone: integration test is when code is touching interface or database. We use test container to test it in database
 
 TDD:
 Barnaby: it is important but it is not possible to implement it everywhere.
@@ -35,7 +33,7 @@ communication between product owner.
 interaction of planning
 I would need to understand how people structure project
 work on relationship with clients.
-different makro tasks
+different macro tasks
 
 failure demand
 
@@ -49,7 +47,7 @@ It is important to reassure with customer that we are following into right direc
 
 How important is it to identify results from development and client point of view after delivering the product?
 
-
-All depents from the clinet and product
-Any succes with the customer is worth to save and talk. It is beneficial for a cusotmer.
-It is worth to chceck it with analitics tools to see if it giving profit. if it worth the money we spent on that.
+All depends from the client and product.
+Achieving any success is worth to talk to customer.
+It is beneficial for a customer so he can share his thoughts.
+It is worth to check it with analytics tools to see if it giving profit, if it worth the money we spent on that.
