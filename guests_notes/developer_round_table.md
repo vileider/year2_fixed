@@ -15,7 +15,7 @@ James is focusing whole team on one topic
 Simone said he is struggling with distraction as well
 
 brief about CI/CD:
-Simone said that they use tool called jidoka as a pipeline with tests.
+Simone said that they use tool called Jidoka as a pipeline with tests.
 automation that automatically fixes issues is named “Jidoka”.
 
 Simone: code coverage - after completing test you know that the code is legit 100%.
@@ -39,9 +39,9 @@ failure demand
 
 
 Barnaby: 
-If they do not know what are the delivering the not gonna deliver god project
+If they do not know what are the delivering the not gonna deliver good project
 
-If the product is delivered even if is bad quality 
+the product should be delivered on time even if is bad quality.
 
 It is important to reassure with customer that we are following into right direction
 
