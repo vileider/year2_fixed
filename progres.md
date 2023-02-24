@@ -434,3 +434,10 @@ Jenkins - continuous integration tool, the center of CI env
 After daily stand-up I had a session with IBM support
 He helped me solving my issue with the pipeline
 I was working hard helping team member during pull requests. I send my task
+### 17 - 23.2.2023
+I sent Learning outcomes reflection
+I was learning Jira board
+I created and attached Jira to my private repo on git hub
+I was learning react:
+https://www.youtube.com/watch?v=kK_Wqx3RnHk&t=813s
+I attend to Database session and mad some notes
