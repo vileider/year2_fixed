@@ -1,29 +1,15 @@
-LO2.5.2.3
-Software Quality Assurance
-Examine the use of performance evaluation tools in a business context, and justify how his/her own work is providing value to the team.
-Again research different performance evaluation tools - you have to examine them, so what are they, how do they work, what are the pros and cons.  Then justify using them in your team to see if they add value.  One day you might be evaluated using these for real, so now might be a good time to work out how they work and how you can use them to your advantage.
 
+(Dijk & Schodl, 2015)
+During my research relating to performance evaluation tools, I learned that it could be a method or system used to assess an individual's or organization's performance. These tools are used to evaluate whether the person or organization is meeting defined goals or expectations. Performance evaluation tools can be used for a variety of purposes.
+I have found the 5 most recognizable ones. In the past, while working in IT and not related jobs I could experience some evaluation tools. (Todorow, B. 2023)[LO2.5.2.3]Performance appraisals - These provide feedback to employees about their performance, which can help them to identify areas for improvement. Moreover, it improves motivation and communication through regular honest responses. I think it can be useful when an employer considers promotions or rewards(like employee of the month etc.). Performance appraisal tools have some limitations, such as a lack of perfect accuracy in reflecting performance, or the potential for creating stress. It could be time-consuming as well. 360-degree feedback is very similar. The small differences like conducting the process by one of the supervisors could make it more formal. I think 360-degree feedback is often used for developmental purposes, while performance appraisal is often used for performance management and decision-making around promotions.
+(Asih et al., 2020),(The Open University 2022)[LO2.5.2.3]
+The two tools are similar and designed to help individuals and organizations achieve specific goals. Both require tracking and measurement of progress. KPIs are evaluated based on objective, measurable data, while PDPs are evaluated based on subjective self-assessment and feedback from others. KPIs may not capture the full complexity individual's performance and goals. It is because KPIs focus on a limited number of indicators Organizations and individuals often have complex and multifaceted goals that cannot be fully captured. PDPs rely on subjective self-assessment and feedback from others, which may not always be accurate or objective. It may require additional resources, such as training, coaching, or development programs. I created a personal development plan as a part of my 2-year student path. I did not use it as effectively as I could. But every other iteration teaches me how realistically I can set up my goals. When I get distracted by different parts of an interesting part of IT I can look back into PDP. I might adjust it at the next PDP iteration or come back on track and keep following pre-set goals. The importance is to have a written plan of my development to which I can refer in the future. Ambitious team members could bring more value to the team because they pre-set their goals in PDP. They will try to achieve these goals and often team plans can match personal development.
+[LO2.5.2.3] For the next project I think would propose an enchanting performance game. We could pick the most useful parts of the ones I described. A combination of these tools may be the most effective approach, as each tool can provide a different perspective and focus on different aspects of performance and development 
 
-context/Background?
+Todorow, B. (2023) evaluation tools, Bitbucket. Available at: https://bitbucket.org/vileider/year2_fixed/src/master/self_outcome_notes/evaluation_tools.md (Accessed: February 27, 2023). 
 
-What interesting I did Today?
+Dijk, D.V. and Schodl, M.M. (2015) Performance appraisal and evaluation, Ben-Gurion University Research Portal. Elsevier Inc. Available at: https://cris.bgu.ac.il/en/publications/performance-appraisal-and-evaluation (Accessed: February 28, 2023). 
 
-What have I learned?
+Asih, I., Purba, H.H. and Sitorus, T.M. (2020) KEY PERFORMANCE INDICATORS: A SYSTEMATIC LITERATURE REVIEW, www.researchgate.net. Available at: https://www.researchgate.net/profile/Humiras-Purba/publication/344493860_KEY_PERFORMANCE_INDICATORS_A_SYSTEMATIC_LITERATURE_REVIEW/links/5f7c6d69458515b7cf6a4c39/KEY-PERFORMANCE-INDICATORS-A-SYSTEMATIC-LITERATURE-REVIEW.pdf (Accessed: 2023). 
 
-What can be improved?
-
-If any, what do I want to start doing or continue?
-
-If any, what do I want to stop doing?
-
-What is an performance tool
-Examples of 5 evaluation tools In glosarry
-Why should i use it
-Which ones I used in the past
-Did i use it efecively
-Which one I should use but i did not
-wchich one i will use
-
-
-
-
+The Open University (2022) The Open University, Personal development plan (PDP) | Help Centre | The Open University. Available at: https://help.open.ac.uk/pdp (Accessed: February 28, 2023). 
