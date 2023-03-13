@@ -441,3 +441,56 @@ I created and attached Jira to my private repo on git hub
 I was learning react:
 https://www.youtube.com/watch?v=kK_Wqx3RnHk&t=813s
 I attend to Database session and mad some notes
+### 24.2.2022 - 2.3.2022
+I have been attending to guest lectures 
+Worked under outcome evidences
+communicating over email with my mentor
+started 2 new project with 2 different teams
+One project is about placement at uhi and IT support as a devOps
+Other is abitious student project 
+### 
+Should we move taks to done berfor pr
+
+Mentor session:
+
+- if employng contractor frm antoher countries
+
+  francesco has small  filies in othjer countries
+
+
+SDLC:
+space inudustry aeronautci still uses water fall
+
+
+scrum: at the begionning of the scrum you establish whjat is the current goeal
+at sprint planinnig there is estimation of cost and populated with ticked..
+After every sprint we evaluate what can we achieve
+after 1 sprint you can estimate realistic time of finishing project
+it would take 6 months of data to esipmate velocity of the team
+
+
+test should be particulary for UI
+tdd should be for evrything unles it is impossible
+
+extreme programming require pair programming
+
+rewiecing i should have ci/cd pipeline
+
+francesco gave mehighlited view
+
+
+evaluation tools: 
+estimation from jira,
+github: activity, line of code commited
+different [pint of evaluation gives more data so it let you evaluate it better
+time spedn and time base can estimate the story point in the funture]
+
+quaterlyt reveiw is betrter that year revwie because more often reviews put you on track
+
+if they are to often they become too burden
+if objectives are too much does not help because i would have to change to mucch
+
+
+every evaluation should specilay prepearde for a person
+on every stepo of carrie lader ther should be written expoectation what is expected fromk a person
+
