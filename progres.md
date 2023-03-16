@@ -441,56 +441,59 @@ I created and attached Jira to my private repo on git hub
 I was learning react:
 https://www.youtube.com/watch?v=kK_Wqx3RnHk&t=813s
 I attend to Database session and mad some notes
-### 24.2.2022 - 2.3.2022
+### 24.2.2023 - 2.3.2023
 I have been attending to guest lectures 
 Worked under outcome evidences
 communicating over email with my mentor
 started 2 new project with 2 different teams
 One project is about placement at uhi and IT support as a devOps
 Other is abitious student project 
-### 
-Should we move taks to done berfor pr
+### 4.3.2023 - 13.3.2023
+It is very busy at both projects.
+At the UHI one I was trying to understand whole architecture.
+Loose coupled structure shows me an example of well designed and secured system
+At students project well documented app description let the whole team to 
+self organized and keep team progress going.
 
-Mentor session:
+I had a session with mentor
+at the meeting I asked Francesco if he has any experience working offshore or inshore
+He said that Adobe creates a company in a country and hires people that way.
+I asked about learning outcome and one was about waterfall method
+My mentor replied that it is still useful in space industry.
+I also asked him about evaluation methods in practice
+scrum: at the beginning of the scrum I establish what is my current goal
+at sprint planning I should do estimation cost and populate board with tickets.
+After every sprint team should evaluate what can we achieve
+after 1 sprint I will be able to estimate realistic time of project end
+it would take 6 months of data to estimate velocity of the team
+About tests:
+test should be done particularly for UI
+TDD should be for everything unless it is impossible
+coding without tests - extreme programming require pair programming
 
-- if employng contractor frm antoher countries
+While reviewing code should have ci/cd pipeline
 
-  francesco has small  filies in othjer countries
+evaluation tools for developers: 
+* estimation from JIRA,
+* GitHub: activity, line of code committed
 
+different point of evaluation gives more data so it will let me evaluate it better.
+Time spent and time base can estimate the story point in the future.
 
-SDLC:
-space inudustry aeronautci still uses water fall
+quarterly review is better that year review because more often reviews put you on track
+If reviews are to often they become too burden
+If there is too much objections review does not help because I would have to change to much
+Every evaluation should be specially prepared for a chosen person
+On every step of carrier ladder it should be written what is expected from a person.
 
-
-scrum: at the begionning of the scrum you establish whjat is the current goeal
-at sprint planinnig there is estimation of cost and populated with ticked..
-After every sprint we evaluate what can we achieve
-after 1 sprint you can estimate realistic time of finishing project
-it would take 6 months of data to esipmate velocity of the team
-
-
-test should be particulary for UI
-tdd should be for evrything unles it is impossible
-
-extreme programming require pair programming
-
-rewiecing i should have ci/cd pipeline
-
-francesco gave mehighlited view
-
-
-evaluation tools: 
-estimation from jira,
-github: activity, line of code commited
-different [pint of evaluation gives more data so it let you evaluate it better
-time spedn and time base can estimate the story point in the funture]
-
-quaterlyt reveiw is betrter that year revwie because more often reviews put you on track
-
-if they are to often they become too burden
-if objectives are too much does not help because i would have to change to mucch
-
-
-every evaluation should specilay prepearde for a person
-on every stepo of carrie lader ther should be written expoectation what is expected fromk a person
-
+### 14.3.2023
+I had 2 meetings with college team and placement 
+Allister said AdConnect changes group names at AD on premises
+I meet with Gary Ryan 
+### 15.3.2023
+At placement my team had to change 2 files 
+to add orkney college (OR%)to SITS
+### 16.03.2023
+I attended to daily stand up at both team
+I pushed 2 pull request at coord team
+I expanded reflection in progress
