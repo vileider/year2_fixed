@@ -6,6 +6,6 @@ MIM - Microsoft Identity Manager. Collection of cooperating services. We only us
 
 The Orchestrator - main controlling engine that determines when MIM profiles are run. Tells it to do all that stuff. It can do it, it just needs to be told to do it.
 
-SIts collecitng of dtabases - student 
-uhi reporting/ mirror version of sits
+SIts collecting databases - student 
+UHI reporting/ mirror version of sits
 active directory is are that 

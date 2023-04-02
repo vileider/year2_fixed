@@ -1,0 +1,1 @@
+Alistar- When people leave they would like to ask for deleting information related to them.
