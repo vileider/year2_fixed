@@ -15,7 +15,6 @@ However, there is still a need for information campaigns and additional measures
 [LO2.6.1.4]
 During one of the ITDI sessions, I discussed saving email addresses on a new channel with Alistair. He explained that because of GDPR, individuals can request that all their data related to them be deleted when they leave a job in the future. Searching for data spread across multiple channels could be challenging and underscores the importance of adhering to GDPR regulations.
 
-
 ncsc.gov.uk (2021) Cyber aware, NCSC. Available at: https://www.ncsc.gov.uk/cyberaware/home (Accessed: April 8, 2023). 
 
 Renaud, K. and Coles-Kemp, L. (2022) Accessible and inclusive cyber security: A nuanced and Complex Challenge, SN computer science. U.S. National Library of Medicine. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9215151/ (Accessed: April 8, 2023). 
