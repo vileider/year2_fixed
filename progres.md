@@ -497,3 +497,158 @@ to add orkney college (OR%)to SITS
 I attended to daily stand up at both team
 I pushed 2 pull request at coord team
 I expanded reflection in progress
+###
+As a part of  ITDI placement I was taking a part in UHI developer team meeting.
+Session with mentor:
+working with for example git kraken could be useful to understand source control
+source tree program
+testing are about black box testing i do not rely on implementation but on what I expect
+jest would allow me nesting
+
+### 
+# ITDI session
+we need to check student environment status
+In AD their are several groups and Jem is not clear which groups can be turned into another
+It is easy to convert it by changing email address
+
+At sits we need to check what connect student with sits
+where enrolment is are connected to?
+Is there a status on "ScJ"?
+We need to check student AD location and
+staff and location
+software licencing is build on being 
+in a group--sci student column and the course group
+Can I find an enrolment instead of checking if it is in the course group?
+Is "students" on the course or "SCJ" or "sPR"
+
+A:It is relate with the founding, SQ
+
+What make students part of the AD group?
+what is a difference between the groups?
+what attributes can be added to group any limitation - in active directory
+while getting into another group does my account duplicates or do I get 
+registered at AD?
+Azure doesn't have option to filter account that is why I see all accounts.
+I can still exist on a SITS view and because a filter at MIM might not know about me.
+Can I be part of two groups with 1 attribute that are collided with each other how is it solved
+Is it solved that on one group attribute does not even appear?
+there is automatic licencing students
+we need to tell MIM to not drop the group when they see the students
+we can find an atribute that sais do not take studenst from group
+
+If i vamn find an atribute in sits
+if att says it is acitve
+the code intaht linke can sqy it is true 
+it would solve the problem
+### 23.3.2023 
+# ITDI
+from sits manula we should look for PRS (record locations)
+we should look for sutable atribute for it
+https://learn.microsoft.com/en-us/windows/win32/adschema/active-directory-schema
+
+in that list and relevant data
+
+AMISH is on SITS
+
+Whe have to find a sits
+# Coord
+after stand up we have been setting up server for Gitlab.
+free trial expires soon so we decided to move it to 
+
+###  24.3.2023
+# ITDI 
+I asked why people on uhi do not use something like slack and communicate to each other
+And allistar said that it is to protect the developers. Otherway if the person who shout the most would be hear only.
+
+Alexander mentioned a phrase "bus factor", which means it iss and Alistar said that in UHI it is called "single point of exelence"
+
+
+
+### I id some so
+employee type
+we should look for sits documenation
+we are looking fro anonimaziation from mim(anoznymization coems from sits)
+students enroling -does not have authenictact9ion . if we can se tup atuhentication 
+If there are account that they will never been claimed
+
+flow dev mim -change control keeps the reales safe
+
+students coures joint- SCJ caused the problem (JEM
+we want to discus meaning of the concept of stundet erlolment
+
+there is sytem CAM about management
+studenwhat happend if stundest thae another year
+normlan life cycles and exception
+if resiting the exam we have acces to everything
+
+aspect about security
+design
+gary stop s gettiong acces
+external company do penetration tests
+the answer is to use both
+in securing industry  no one can trust anyone
+
+### 29.03.2023
+## ITDI
+Azure AD has got an object
+I can add additional atributes by the act of registration
+It can be configure who can read and create custom secured atributes
+# 
+module is on module record
+MAV telling people who is teachnig and is recorded at the last time
+
+we need to ask if the system is predicting the future or do not
+and how can we add students to not existing course.
+
+
+Jem said that they thaink from sits ide if we taking the course and the . In sits there is relation between course and student. there is no software relation in sits
+Jem is wondering if in SQL there is a value that says the student ends his course
+Jem said that we should 
+
+two ways to loose acces get out of the group or software was not active
+
+secion in wievs is about grups and another 
+if there are status in SCJ and if 
+#
+I was keep learning ubuntu. how to use terminal, install application and edit configs
+### 30.03.2023
+# ITDI notes
+if students are in the group they have access to apps
+I have to identify course group with students 
+"crsg" -course group
+if I can get a atribute from sits I will 
+identyfy them
+if csentry.name starts with "CRSg" && course end date > now() then do not call CleanOutGroupMembers
+we have to extend mims schema
+we have to sit to metaverse
+### 5.04.2023
+# ITDI meeting with stake holders
+enrolment are valid for some period
+View that is taking date into account are current academic year
+when are they changing that "day" "22/23" into "23/24"
+status students program group
+Air space engeneering at perth - place to start asking about off shore experience
+
+How do you know if this is astudnet in the system (we have acces to system) 
+we do not know what data that we reaching means.
+Our job is to interprete the data
+
+* loose of acces to resources!
+
+what student course join mean
+
+what studnet course enrolment mean
+
+
+112 provisionala enrolment
+arround june
+
+O - online(the fill all necessary details)
+C - current stunedt
+P- provisional
+csp taking from one acadamic year
+csp -Lee Canions
+What are available codes on spr
+
+SPR is key to give access to student module selection.we are buildidng a time brinde and we need to find ou what time it takes
+
