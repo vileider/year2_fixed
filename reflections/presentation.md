@@ -1,0 +1,11 @@
+Recently, I have been attending the job center as a student looking for a job. I have been receiving support from my work coach, who asked me to provide a presentation that I could show to potential employers. I am grateful to have another person helping me improve my skills and explain my abilities.
+[LO2.4.1.3]
+During the sprint review on February 03, 2023, I was the only person in my team who knew what was happening, and I knew that the project would not be ready in time. Instead of chasing the deadline, I taught my team members about professional work on branches and pull requests, hoping to salvage some value from the project. For the sprint review, I prepared a presentation about how our team had improved our skills and what we had learned.
+
+However, during the meeting, nobody seemed to appreciate my effort, and my joy was systematically extinguished. This experience taught me a valuable lesson about not taking things personally and being proud of my work, regardless of others' opinions. I also realized that I should be more consistent with my vocabulary and build phrases more smoothly.
+
+The sprint review on March 17, 2023, did not go well either. I struggled to find the right words, stopping for too long and searching for words to finish my sentences. Although English is not my native language, I learned that I should always be prepared for questions and be ready to defend my part of the presentation.
+[LO2.4.1.3]
+Since January 2023, I have been trying to apply for a job, attending multiple job interviews and gaining confidence along the way. However, I still felt that I was missing something. So, I asked a senior developer friend and my mentor to help me test my self-presentation skills. They gave me some insightful hints, teaching me to be more confident about my strengths and show my interest in the company.
+
+Overall, my experiences with job interviews and sprint reviews have taught me valuable lessons about presenting myself professionally, working with a team, and not taking things personally. These lessons will help me in my future endeavors, both personally and professionally.
