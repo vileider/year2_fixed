@@ -621,14 +621,16 @@ identyfy them
 if csentry.name starts with "CRSg" && course end date > now() then do not call CleanOutGroupMembers
 we have to extend mims schema
 we have to sit to metaverse
-### 5.04.2023
+### 5.04.2023 - 12.04.2023
+# COORD group
+I learned how to create search function, that look for a string at JSON file.
 # ITDI meeting with stake holders
 enrolment are valid for some period
 View that is taking date into account are current academic year
 when are they changing that "day" "22/23" into "23/24"
 status students program group
 Air space engeneering at perth - place to start asking about off shore experience
-
+### 13.04.2023
 How do you know if this is astudnet in the system (we have acces to system) 
 we do not know what data that we reaching means.
 Our job is to interprete the data

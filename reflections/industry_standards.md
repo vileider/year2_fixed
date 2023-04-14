@@ -1,0 +1,15 @@
+
+I learned there are various types of outsourcing models that companies can use to enhance their operations.[LO2.5.2.2] These models include onshore, offshore, and nearshore outsourcing. (Gallimore, D., 2022) Onshore outsourcing involves outsourcing business functions to a company within the same country as the business. This model is beneficial because of the similar time zone, cultural expectations, and legal compliance. (SPARQ, 2021) On the other hand, offshore outsourcing involves outsourcing a specific project from one country to another. This model can have some drawbacks, such as time zone differences, communication issues, and geopolitical unrest. However, it can also be beneficial in terms of lowering the cost of software development.
+(Nowicka, A., 2023) Finally, nearshore outsourcing involves outsourcing a specific project to multiple development teams in the same geographical area but in multiple countries. This type of outsourcing is beneficial because teams can integrate more easily due to smaller cultural, language, and economic barriers.[LO2.5.2.2]
+
+In my recent discussion with my mentor Francesco, we talked about onshore and offshore distributed work. I wanted to learn more about the benefits and drawbacks of each model, and Francesco informed me that Adobe prefers the onshore model due to the similar time zones, cultural expectations, and legal compliance. However, there are exceptions to this, such as when security and penetration testing are needed. In these cases, an external company is contracted to check the level of security and create a report.
+
+In another conversation with the ITDI team, I asked a question about the topic of offshore employees. Jem, one of the team members, mentioned that universities may sell courses through staff facilitated overseas to generate profit. He directed me to investigate further by looking into Perth College. Jem also mentioned Perth Aircraft Engineering, though it was unclear how it related to the discussion.
+
+In the future, I plan to continue exploring outsourcing models and their implications for businesses. I also aim to investigate the different ways in which industries utilize outsourcing, including staff facilitated overseas and other types of outsourcing. By doing so, I hope to gain a more comprehensive understanding of that topic.
+
+Gallimore, D. (2022) Onshore outsourcing: Outsourcing glossary, Outsource Accelerator. Available at: https://www.outsourceaccelerator.com/glossary/onshore-outsourcing/ (Accessed: April 14, 2023). 
+
+SPARQ (2021) 5 cons of offshoring, Sparq. Available at: https://www.teamsparq.com/blogs/5-disadvantages-of-offshoring/#:~:text=An%20example%20of%20offshoring%20would,not%20all%20outsourcing%20is%20offshore. (Accessed: April 14, 2023). 
+
+Nowicka, A. (2023) 4 reasons why it outsourcing in Poland is growing so fast., Nearshore Software Development Company - IT Outsourcing Services. Available at: https://www.nearshore-it.eu/articles/why-poland/it-outsourcing-centres-in-poland-are-growing-4-main-reasons/ (Accessed: April 14, 2023).
