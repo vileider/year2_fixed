@@ -1,0 +1,17 @@
+
+(Adams, C., 2010)
+There are four fundamental methods of requirement verification Inspection, Demonstration, Test, and Analysis. Each method verifies requirements with increasing rigor. The inspection involves non-destructive examination using one or more of the five senses, while Demonstration involves manipulating the product or system to verify results. The test involves using a controlled and predefined series of inputs, data, to verify outputs, and Analysis involves using models, calculations, and testing equipment to make predictive statements about product or system performance.
+(Pittet, S., 2015)[LO2.5.2.5]
+Each type of test serves a different purpose and has varying levels of complexity and cost. I learned that Unit tests, for example, are low-level tests that verify individual methods and functions, while integration tests verify that different components work together as expected. Functional tests focus on the business requirements of an application and end-to-end tests replicate user behavior with the software in a complete application environment.[LO2.5.2.5]
+Acceptance testing and performance testing are more formal types of testing that evaluate whether a system satisfies business requirements and how well it performs under specific workloads, respectively. Smoke testing is a basic test that quickly checks the major features of a system.[LO2.5.2.5]
+I find it interesting how different types of tests have different levels of complexity, cost, and benefits. For example, end-to-end testing is very useful for replicating user behavior, but it can be expensive to perform and maintain when automated. On the other hand, smoke testing is quick and easy to execute, making it a good option for checking the basic functionality of a system.
+(C. Martin, R., 2005)[LO2.5.2.5]
+By following 3 TDD rules I can't write much code without compiling and executing something, keeping the system executing at all times. This helps to catch errors quickly, and since I am learning how to write tests, I can check if all the code works together. In addition to being an effective way to catch errors, following these rules results in a large number of unit tests and makes the code more testable and less coupled.
+A possible next step could be to experiment with implementing TDD techniques in the COORD project. I think this can lead to more reliable and maintainable code. Right now we are practicing what my mentor describes as "wild programming" - we do not use the test so we do pair programming as often as possible. As I will continue to practice and refine my skills in TDD, I may find that it becomes a natural and effective part of your software development process.
+
+
+Adams, C. (2010) What are the four fundamental methods of requirement verification? Available at: https://www.modernanalyst.com/Careers/InterviewQuestions/tabid/128/ID/1168/What-are-the-four-fundamental-methods-of-requirement-verification.aspx (Accessed: April 15, 2023). 
+
+Pittet, S. (2015) The different types of testing in software, Atlassian. Available at: https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing (Accessed: April 15, 2023). 
+
+C. Martin, R. (2005) TheThreeRulesOfTdd, ArticleS.UncleBob.TheThreeRulesOfTdd. Available at: http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd (Accessed: April 15, 2023). 
