@@ -1,5 +1,4 @@
-Jem said he would like to get a team of people to sort out technicak 
-issues not just programming.
+Jem said he would like to get a team of people to sort out technique issues not just programming.
 
 We will not have docuemnetation
 We will nee to find data and documentation.
