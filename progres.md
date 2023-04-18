@@ -653,4 +653,13 @@ csp -Lee Canions
 What are available codes on spr
 
 SPR is key to give access to student module selection.we are buildidng a time brinde and we need to find ou what time it takes
+### 17.04.2023
+Today during ITDI session I have been brainstorming with alexender and antionio how can we create a date patch to extend access to resureces over the summer time. after daily we divided task and we will meet next day showing the result of our research.
+### 18.05.2023
+I asked Alexender about LO's
+He is working with disabled people and he might have some experiance on that matter
+I asked how to prevent for scamming disbled people
+he reply that scammers are really creative and quick reponse could be esential.
+# COORD
+we have been sorting out issue with context at next js
 
