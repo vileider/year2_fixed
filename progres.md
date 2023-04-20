@@ -662,4 +662,39 @@ I asked how to prevent for scamming disbled people
 he reply that scammers are really creative and quick reponse could be esential.
 # COORD
 we have been sorting out issue with context at next js
+### DEV.js submmit 2023
+STXNext
+-make solid date frame on courses 
+-technologies that know and 
+-courses that are still on but not finished should be written
+-describe a project first for HR and later for Serior who chcecks
+-write a message that I would be keen to work even for free
+-if there isn't something in cv recrouter thinks i do not know this
 
+##
+Code and pepper
+Ola
+-pointing out skills
+-showin what is yuour goal
+-what difficuluite have been on
+#
+Shenker
+Magdalena,
+-What is passionate for me in a work as a developer
+"solving ridles na dworking in a group"
+-visulaisiate the way of my path
+-what is my next step
+-i should show how i move in my path
+-project that I am proud the moste and what spectatcualr i achieve(team playing etc.)
+-open sources
+-prepare for automation cv filter
+-show up what have I done on linked in, all projects and how does it look
+-check sheker G.B.
+-it is import at to,
+-I should show how something to the world
+# Synergy Code
+-creating profile for specific project
+-be honest 
+-team playerss
+
+### 20.04.2023
