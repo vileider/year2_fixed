@@ -698,3 +698,24 @@ Magdalena,
 -team playerss
 
 ### 20.04.2023
+
+### 25.04.2023
+I have been on a meetign with the client
+I was trying to understand the system they operate in.
+I was writing notes while talking to client
+I was acitvly listening what se said
+Session with
+# testing outcome
+- https://cve.mitre.org/
+using I can scan all the libraries i use in my software 
+it tells if libray has vulerbaility and how to fix it
+
+there are two ways of securing  code
+-use external
+-have a security group
+-autmation that scan
+
+#
+pair programming session at ITDI
+attended to end of mentoring programme
+attended to sprint review session at the college
