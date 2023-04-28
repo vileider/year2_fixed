@@ -8,7 +8,7 @@ Right now I know it was not the right approach.
 
 Relating to an other successful project - the goal was to create a simple chat on one framework. However, after two weeks, we made so much progress that we decided to use three more frameworks and create a mobile version. We achieved it but last piece of code was written 5 min before presenting to the client. It is difficult to estimate project phased contingency without basic data. While I can rely on my experience, when working with a new team, I think I should be realistic and set small goals. Furthermore I should use designated evaluation tool.
 
-Through my experiences and by constant using of tools such as burn-down charts, I have learned the importance of estimating phased contingency and allocating and managing resources appropriately. Once I will get familiar with existing tools on Jira I will discuss further imporvement with my mentor, team and teachers.
+Through my experiences and by constant using of tools such as burn-down charts, I have learned the importance of estimating phased contingency and allocating and managing resources appropriately. Once I will get familiar with existing tools on Jira I will discuss further improvement with my mentor, team and teachers.
 
 
 Todorow, B. (2023) burdownchart. Available at: https://bitbucket.org/vileider/year2_fixed/src/master/images/burndownchart.png. 
