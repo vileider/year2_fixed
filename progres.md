@@ -396,24 +396,31 @@ I said that there is a difference between kaban and scrum of stand-ups. I explai
 scrum and week short sprints.
 source on which I based my reserach:
 https://business.adobe.com/blog/basics/daily-stand-up#:~:text=Frequently%20asked%20questions.-,What%20is%20a%20stand-up%20meeting%20in%20Agile%3F,the%20last%20stand-up%20meeting.
+
 ### 10.2.2023
+
 our group did:
+
 - retrospective
 - chosen scrum master
 - each one of team member finished one task
 - communication on slack channel was on decent level
 - pull requests
-difficulties:
+  difficulties:
 - understanding brief
 - struggling with JIra permissions
 - communication with scrum master
 - tasks that crossover and solving that problem
+
 ### 13 -14.2.2023
+
 I attended to LO's session with Karen and Neil
 I was learning more advanced techniques in react and test
 https://www.youtube.com/watch?v=ML5egqL3YFE
 https://www.youtube.com/watch?v=4FhJkX18fS8&t=621s
+
 ### 15.2.2023
+
 I found multiple problems related to my private project
 -Sass compiler
 -source control
@@ -430,29 +437,37 @@ build bot - automate builds, tests
 Apache Gump - java builds and tests
 Travis cli - builds and tests for github
 Jenkins - continuous integration tool, the center of CI env
+
 ### 16.2.2023
+
 After daily stand-up I had a session with IBM support
 He helped me solving my issue with the pipeline
 I was working hard helping team member during pull requests. I send my task
+
 ### 17 - 23.2.2023
+
 I sent Learning outcomes reflection
 I was learning Jira board
 I created and attached Jira to my private repo on git hub
 I was learning react:
 https://www.youtube.com/watch?v=kK_Wqx3RnHk&t=813s
 I attend to Database session and mad some notes
+
 ### 24.2.2023 - 2.3.2023
-I have been attending to guest lectures 
+
+I have been attending to guest lectures
 Worked under outcome evidences
 communicating over email with my mentor
 started 2 new project with 2 different teams
 One project is about placement at uhi and IT support as a devOps
-Other is abitious student project 
+Other is abitious student project
+
 ### 4.3.2023 - 13.3.2023
+
 It is very busy at both projects.
 At the UHI one I was trying to understand whole architecture.
 Loose coupled structure shows me an example of well designed and secured system
-At students project well documented app description let the whole team to 
+At students project well documented app description let the whole team to
 self organized and keep team progress going.
 
 I had a session with mentor
@@ -473,9 +488,10 @@ coding without tests - extreme programming require pair programming
 
 While reviewing code should have ci/cd pipeline
 
-evaluation tools for developers: 
-* estimation from JIRA,
-* GitHub: activity, line of code committed
+evaluation tools for developers:
+
+- estimation from JIRA,
+- GitHub: activity, line of code committed
 
 different point of evaluation gives more data so it will let me evaluate it better.
 Time spent and time base can estimate the story point in the future.
@@ -487,235 +503,278 @@ Every evaluation should be specially prepared for a chosen person
 On every step of carrier ladder it should be written what is expected from a person.
 
 ### 14.3.2023
-I had 2 meetings with college team and placement 
+
+I had 2 meetings with college team and placement
 Allister said AdConnect changes group names at AD on premises
-I meet with Gary Ryan 
+I meet with Gary Ryan
+
 ### 15.3.2023
-At placement my team had to change 2 files 
+
+At placement my team had to change 2 files
 to add orkney college (OR%)to SITS
+
 ### 16.03.2023
+
 I attended to daily stand up at both team
 I pushed 2 pull request at coord team
 I expanded reflection in progress
+
 ###
-As a part of  ITDI placement I was taking a part in UHI developer team meeting.
-Session with mentor:
-working with for example git kraken could be useful to understand source control
+
+As member of the ITDI placement, I was taking part in the UHI developer team meeting.
+The session with the mentor:
+working with git Kraken could be useful to understand source control
 source tree program
-testing are about black box testing i do not rely on implementation but on what I expect
-jest would allow me nesting
+My testing is about black box testing I do not rely on implementation but on what I expect jest would allow me to test.
 
-### 
+###
+
 # ITDI session
-we need to check student environment status
-In AD their are several groups and Jem is not clear which groups can be turned into another
-It is easy to convert it by changing email address
 
-At sits we need to check what connect student with sits
-where enrolment is are connected to?
+we need to check the student environment status
+In AD there are several groups and Jem is not clear which groups can be turned into another
+It is easy to convert it by changing the email address
+
+At sits, we need to check what connects a student with sits
+where enrolment is connected to?
 Is there a status on "ScJ"?
-We need to check student AD location and
+We need to check the student AD location and
 staff and location
-software licencing is build on being 
+software licensing is built on being
 in a group--sci student column and the course group
 Can I find an enrolment instead of checking if it is in the course group?
 Is "students" on the course or "SCJ" or "sPR"
 
-A:It is relate with the founding, SQ
+A: It is relate to the founding, of SQ
 
-What make students part of the AD group?
-what is a difference between the groups?
-what attributes can be added to group any limitation - in active directory
-while getting into another group does my account duplicates or do I get 
+What makes students part of the AD group?
+what is the difference between the groups?
+what attributes can be added to the group any limitation - in the active directory
+while getting into another group does my account duplicate or do I get
 registered at AD?
-Azure doesn't have option to filter account that is why I see all accounts.
-I can still exist on a SITS view and because a filter at MIM might not know about me.
+Azure doesn't have the option to filter accounts which is why I see all accounts.
+I can still exist on a SITS view because a filter at MIM might not know about me.
 Can I be part of two groups with 1 attribute that are collided with each other how is it solved
-Is it solved that on one group attribute does not even appear?
-there is automatic licencing students
+Is it solved that one group attribute does not even appear?
+there is automatic licensing for students
 we need to tell MIM to not drop the group when they see the students
-we can find an atribute that sais do not take studenst from group
+we can find an attribute that says do not take students from the group
 
-If i vamn find an atribute in sits
-if att says it is acitve
-the code intaht linke can sqy it is true 
+If I can find an attribute in sits
+if att says it is active
+the code that linke can say it is true
 it would solve the problem
-### 23.3.2023 
+
+### 23.3.2023
+
 # ITDI
-from sits manula we should look for PRS (record locations)
-we should look for sutable atribute for it
+
+from sits manual we should look for PRS (record locations)
+we should look for a suitable attribute for it
 https://learn.microsoft.com/en-us/windows/win32/adschema/active-directory-schema
 
 in that list and relevant data
 
 AMISH is on SITS
 
-Whe have to find a sits
+We have to find a sits
+
 # Coord
-after stand up we have been setting up server for Gitlab.
-free trial expires soon so we decided to move it to 
 
-###  24.3.2023
-# ITDI 
-I asked why people on uhi do not use something like slack and communicate to each other
-And allistar said that it is to protect the developers. Otherway if the person who shout the most would be hear only.
+after stand up we have been setting up the server for Gitlab.
+free trial expires soon so we decided to move it to
 
-Alexander mentioned a phrase "bus factor", which means it iss and Alistar said that in UHI it is called "single point of exelence"
+### 24.3.2023
 
+# ITDI
 
+I asked why people at UHI do not use something like Slack and communicate with each other
+and Allistar said that it is to protect the developers. Otherway if the person who shouts the most would be heard only.
 
-### I id some so
+Alexander mentioned the phrase "bus factor", which means it is and Alistar said that in UHI it is called "single point of excellence".
+
+### I did some research
 employee type
-we should look for sits documenation
-we are looking fro anonimaziation from mim(anoznymization coems from sits)
-students enroling -does not have authenictact9ion . if we can se tup atuhentication 
-If there are account that they will never been claimed
+we should look for sits documentation
+we are looking for anonymization from mim(anonymisation comes from sits)
+students enrolling -does not have authentication. if we can see tup authentication
+If there are accounts that will never be claimed
 
 flow dev mim -change control keeps the reales safe
 
-students coures joint- SCJ caused the problem (JEM
-we want to discus meaning of the concept of stundet erlolment
+students course joint - SCJ caused the problem JEM
+we want to discuss the meaning of the concept of student enrollment
 
-there is sytem CAM about management
-studenwhat happend if stundest thae another year
-normlan life cycles and exception
-if resiting the exam we have acces to everything
+there is a system CAM for managing students' records
+what happened if the student stays another year
+"...normal life cycles and exceptions"
+"..if resiting the exam we have access to everything.."
 
-aspect about security
-design
-gary stop s gettiong acces
-external company do penetration tests
-the answer is to use both
-in securing industry  no one can trust anyone
+aspect about security:
+-designing security
+"...Gary stopped getting access"
+external company does penetration tests
+"...the answer is to use both.."
+in securing industry no one can trust anyone
 
 ### 29.03.2023
+
 ## ITDI
+
 Azure AD has got an object
-I can add additional atributes by the act of registration
-It can be configure who can read and create custom secured atributes
-# 
-module is on module record
-MAV telling people who is teachnig and is recorded at the last time
+I can add additional attributes by the act of registration
+It can be configured who can read and create custom secured attributes
+
+#
+
+the module is on the module record
+MAV telling people who are teaching and who is recorded at the last time
 
 we need to ask if the system is predicting the future or do not
-and how can we add students to not existing course.
+and how can we add students to not existing courses?
 
-
-Jem said that they thaink from sits ide if we taking the course and the . In sits there is relation between course and student. there is no software relation in sits
+Jem said that they think from sits ide if we take the course and In sits there is a relation between course and student. there is no software relation in sits
 Jem is wondering if in SQL there is a value that says the student ends his course
-Jem said that we should 
 
-two ways to loose acces get out of the group or software was not active
+two ways to lose acces get out of the group or the software was not active
 
-secion in wievs is about grups and another 
-if there are status in SCJ and if 
+second in wievs is about groups and another
+
 #
+
 I was keep learning ubuntu. how to use terminal, install application and edit configs
+
 ### 30.03.2023
+
 # ITDI notes
+
 if students are in the group they have access to apps
-I have to identify course group with students 
+I have to identify course groups with students
 "crsg" -course group
-if I can get a atribute from sits I will 
-identyfy them
+if I can get an attribute from sits I will
+identify them
 if csentry.name starts with "CRSg" && course end date > now() then do not call CleanOutGroupMembers
 we have to extend mims schema
-we have to sit to metaverse
+we have to sit to a metaverse
+
 ### 5.04.2023 - 12.04.2023
+
 # COORD group
-I learned how to create search function, that look for a string at JSON file.
-# ITDI meeting with stake holders
-enrolment are valid for some period
-View that is taking date into account are current academic year
+
+I learned how to create a search function, that looks for a string in a JSON file.
+
+# ITDI meeting with stakeholders
+
+enrolments are valid for some period
+The view that is taking date into account is current academic year
 when are they changing that "day" "22/23" into "23/24"
 status students program group
-Air space engeneering at perth - place to start asking about off shore experience
-### 13.04.2023
-How do you know if this is astudnet in the system (we have acces to system) 
-we do not know what data that we reaching means.
-Our job is to interprete the data
+Air space engineering at perth - the place to start asking about offshore experience
 
-* loose of acces to resources!
+### 13.04.2023
+
+How do you know if this is a student in the system (we have access to the system)
+we do not know what the data that we reaching means.
+Our job is to interpret the data
+
+- loose access to resources!
 
 what student course join mean
 
-what studnet course enrolment mean
+what does student course enrolment mean
 
+112 provisional enrolment
+around June
 
-112 provisionala enrolment
-arround june
-
-O - online(the fill all necessary details)
-C - current stunedt
+O - online(fill all necessary details)
+C - current student
 P- provisional
-csp taking from one acadamic year
-csp -Lee Canions
+CSP taking from one academic year
+CSP -Lee Canions
 What are available codes on spr
 
-SPR is key to give access to student module selection.we are buildidng a time brinde and we need to find ou what time it takes
+SPR is key to giving access to student module selection. we are building a time bride and we need to find out what time it takes
+
 ### 17.04.2023
-Today during ITDI session I have been brainstorming with alexender and antionio how can we create a date patch to extend access to resureces over the summer time. after daily we divided task and we will meet next day showing the result of our research.
+
+Today during the ITDI session I have been brainstorming with Alexender and Antionio on how can we create a date patch to extend access to resources over the summer time. after daily we divided tasks and we will meet the next day to show the result of our research.
+
 ### 18.05.2023
-I asked Alexender about LO's
-He is working with disabled people and he might have some experiance on that matter
-I asked how to prevent for scamming disbled people
-he reply that scammers are really creative and quick reponse could be esential.
+
+I asked Alexender about LOs
+He is working with disabled people and he might have some experience in that matter
+I asked how to prevent scamming disabled people
+he reply that scammers are creative and quick responses could be essential.
+
 # COORD
-we have been sorting out issue with context at next js
-### DEV.js submmit 2023
+
+we have been sorting out issues with context at the next js
+
+### DEV.js submit 2023
+
 STXNext
--make solid date frame on courses 
--technologies that know and 
+-make solid data frames on courses
+-technologies that know and
 -courses that are still on but not finished should be written
--describe a project first for HR and later for Serior who chcecks
+-describe a project first for HR and later for Serior who checks
 -write a message that I would be keen to work even for free
--if there isn't something in cv recrouter thinks i do not know this
+-if there isn't something in cv recruiter thinks i do not know this
 
 ##
+
 Code and pepper
 Alexandra
 -pointing out skills
--showin what is yuour goal
--what difficuluite have been on
+-showing what is your goal
+-what difficulty have been on
+
 #
+
 Shenker
 Magdalena,
 -What is passionate for me in a work as a developer
-"solving ridles na dworking in a group"
--visulaisiate the way of my path
+"solving riddles na working in a group"
+-visualize the way of my path
 -what is my next step
--i should show how i move in my path
--project that I am proud the moste and what spectatcualr i achieve(team playing etc.)
+-I should show how I move in my path
+-a project that I am proud of the most and what spectacular I achieve(team playing etc.)
 -open sources
 -prepare for automation cv filter
--show up what have I done on linked in, all projects and how does it look
--check sheker G.B.
--it is import at to,
+-show up what have I done on linked in, all projects, and how they look
+-check shaker G.B.
+-it is imported at to,
 -I should show how something to the world
+
 # Synergy Code
--creating profile for specific project
--be honest 
--team playerss
+
+-creating a profile for the specific project
+-be honest
+-team players
 
 ### 20.04.2023
 
 ### 25.04.2023
-I have been on a meetign with the client
-I was trying to understand the system they operate in.
-I was writing notes while talking to client
-I was acitvly listening what se said
-Session with
-# testing outcome
-- https://cve.mitre.org/
-using I can scan all the libraries i use in my software 
-it tells if libray has vulerbaility and how to fix it
 
-there are two ways of securing  code
+I have been in a meeting with the client
+I was trying to understand the system they operate in.
+I was writing notes while talking to a client
+I was actively listening what she said
+
+
+# testing outcome
+
+- https://cve.mitre.org/
+  using I can scan all the libraries i use in my software
+  it tells if libray has vulerbaility and how to fix it
+
+there are two ways of securing code
 -use external
 -have a security group
 -autmation that scan
 
-#
+### 26.04 - 05.05.2023
+
 pair programming session at ITDI
 attended to end of mentoring programme
 attended to sprint review session at the college
+I focused on writing relection during this time
