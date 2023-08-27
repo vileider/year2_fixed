@@ -16,7 +16,15 @@ I completed the reflection about the human aspect in information security. Howev
 I began examining another outcome related to data-driven websites. The person who evaluated my work mentioned that I have a project in my repository that aligns with this topic. I believe it might be the nutrition counter app that was developed using React Native.
 ### 11.8.2023
 I completed the reflection about the data-driven app. In hindsight, I believe I could have elaborated more on industry trade-offs and conducted additional research to provide examples. A new idea that emerged is to establish an actual pipeline for the Quality Assurance outcome. Having a burn-down chart would be particularly useful for this purpose. However, I've decided to leave it as is for now, and following feedback from the delivery team on Monday, I will make necessary adjustments to the submitted work. Another task I undertook was discussing the portal issues with fellow students. Additionally, I engaged with the ITDI team, and they requested me to provide step-by-step instructions to reproduce the problem. I'll be sending these instructions immediately after completing this daily log.
-
-
-
-
+### 13.8.2023
+I successfully submitted my portfolio as a retake for the Data as a Service module. It was quite challenging, and I had three attempts to get it right. I'm feeling quite exhausted now. I'll have to wait until tomorrow to see what feedback I receive.
+### 14.8.2023
+I had a brief meeting with Neil today, and he provided me with some valuable suggestions for enhancing my reflections. Firstly, he advised me to create an additional reflection on quality assurance and include references from industry press or other reputable sources of information. He also recommended crafting another reflection about GDPR and incorporating references to the original act. Furthermore, Neil suggested that recording a video demonstrating my research process could earn some extra points. Lastly, he highlighted the idea of crafting a reflection on the pitfalls of common security approaches, delving deeper into this subject with the appropriate references.
+### 16.8.2023
+I completed the reflection about quality assurance. I will raise a ticket to gather feedback from a member of the Delivery team and see their thoughts on it.
+### 18.8.2023
+For the past three days, I've been dedicated to working on the cybersecurity pitfalls reflection. Initially, I conducted thorough research about proper mitigation methods. Later, I aimed to put this knowledge into practice. I embarked on a module on the HTB website, selecting one focused on Deobfuscation. I encountered challenges yesterday with sending HTTP requests using curl. Today, with renewed energy, I'm determined to tackle it again. If I don't succeed, I'm still committed to documenting my efforts in my reflection.
+#
+Unfortunately, I wasn't able to complete the entire module. However, I did manage to make some progress. When I reached a point of frustration and decided to watch a solution for the module on YouTube, it became clear that I need to become more familiar with additional tools.
+### 23.8.2023
+Over the past couple of days, I've been diligently working on my portfolio. I successfully crafted a responsive landing page tailored to iPad screen resolution. In terms of gathering evidence, I attempted to create a reflection about the effectiveness of combining two programming languages due to their synergies. However, upon assessing the actual performance improvements resulting from this solution, I discovered that the inclusion of the second programming language was actually slowing down calculations. I'm uncertain whether this is due to the need for better libraries. To gain deeper insights, I've decided to delve further into this subject.
