@@ -1,4 +1,3 @@
-
 ### Data as a service
 
 In this reflection, I will delve into my experience of implementing data-driven websites and explore the intricate web of technologies that operate within each layer of the architecture. Moreover, I will discuss the performance trade-offs that often accompany such dynamic developments.
